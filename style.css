@@ -95,8 +95,4 @@ button {
   margin-top: 1rem;
 }
 
-@media (max-width: 350px) {
-  .dropdown {
-    flex-direction: column;
-  }
-}
+
